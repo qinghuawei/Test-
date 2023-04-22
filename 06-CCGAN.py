@@ -1,6 +1,4 @@
 
-#https://blog.csdn.net/qsmx666/article/details/105561765
-
 #%matplotlib inline
 import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader
